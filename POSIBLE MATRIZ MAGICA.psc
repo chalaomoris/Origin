@@ -9,7 +9,7 @@
 ////sea mágica escribir la suma. Además, el programa deberá comprobar que los números
 ////introducidos son correctos, es decir, están entre el 1 y el 9. El usuario ingresa el tamaño de la
 ////matriz que no debe superar orden igual a 10.
-
+//PUTITOS
 
 Algoritmo ejercicio6encuentro23
 	
